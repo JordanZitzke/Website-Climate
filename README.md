@@ -17,7 +17,8 @@ Check out the live application here: **[What's Weather - Live Site](https://marc
 ## 🛠️ Tech Stack
 * **Frontend:** JavaScript (Vanilla), HTML5, CSS3
 * **Bundler/Dev Server:** [Vite](https://vitejs.dev/)
-* **External APIs:** * [Open-Meteo Weather API](https://open-meteo.com/en/docs)
+* **External APIs:** 
+  * [Open-Meteo Weather API](https://open-meteo.com/en/docs)
   * [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api)
 
 ## ⚙️ Getting Started
